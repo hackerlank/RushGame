@@ -1,4 +1,4 @@
-FLVVideoPlay
+RushGame  
 ============
 
-一款自定义的FLV播放器
+学习如何编写自己的游戏代码。
